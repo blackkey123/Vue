@@ -9,6 +9,7 @@
         <s>￥ {{item.money}}</s>
       </div>
     </div>
+    
   </div>
 </template>
 
