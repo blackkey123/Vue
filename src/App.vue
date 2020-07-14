@@ -7,6 +7,9 @@
   </div>
 </template>
 
+
+
+
 <script>
   import MainTabBar from 'components/content/tabbar/MainTabBar'
 
